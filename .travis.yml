@@ -3,3 +3,5 @@ jdk:
   - openjdk14
 before_install:
   - chmod +x mvnw
+os:
+  - windows
